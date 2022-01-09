@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: $small-container;
+    width: $small-container;
+    margin: 0 auto;
+    padding: 0 23px;
+}
+
+@media all and (min-width: $large) {
+    .container {
+        max-width: $large-container;
+    }
+}
+
+@media all and (min-width: $extra-large) {
+    .container {
+        max-width: $extra-large-container;
+    }
+}

@@ -4,5 +4,12 @@
 @import 'base/normalize';
 @import 'base/global';
 
+@import 'layout/grid';
+@import 'layout/about';
+@import 'layout/services';
 @import 'layout/nav';
 @import 'layout/header';
+
+@import 'components/buttons';
+@import 'components/infoboxes';
+

@@ -3,7 +3,7 @@
     @include flexbox;
     @include flex-align(flex-start, center);
     position: relative;
-    
+
     .header-description {
         color: $secondary-color;
         text-transform: uppercase;
@@ -12,11 +12,6 @@
         font-weight: 700;
     }
 
-    h1 {
-        color: #1e2528;
-        font-size: 50px;
-    }
-    
     .main-header-content {
         color: $secondary-text-color;
     }

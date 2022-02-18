@@ -15,7 +15,6 @@
     &:hover {
         background-color: $button-color;
     }
-
 }
 
 .btn-secondary {
@@ -24,5 +23,23 @@
 
     &:hover {
         background-color: $primary-color;
+    }
+}
+
+.btn-form {
+    @extend %btn;
+    
+    color: $secondary-color;
+    font-weight: 600;
+    margin: 40px auto 0;
+    
+    &:hover {
+        color: #fff;
+        background-color: $button-color;
+        transition: all .3s;
+    }
+
+    @media all and (min-width: $large) {
+        margin: 40px 0 0;
     }
 }

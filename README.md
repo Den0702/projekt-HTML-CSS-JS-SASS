@@ -2,6 +2,9 @@
 
 ## Opis 
 Projekt statycznej strony z możliwością wypełnienia oraz walidacji formularza
+
+## Cechy strony
+Strona jest responsywna - jest dostosowana zarówno jak dla urządzeń mobilnych, urządzeń o średniej rozdzielczości jak i dla komputerów desktopowych
  
 ## Demo strony
 [Kliknij, żeby zobaczyć demo](https://den0702.github.io/projekt-HTML-CSS-JS-SASS/)

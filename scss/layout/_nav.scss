@@ -30,10 +30,10 @@
         @extend %mobile-controls;
         color: $primary-color;
     }
+     
     .mobile-close {
         @extend %mobile-controls;
         color: #fff;
-        text-align: right;
         height: 50px;
     }
 
@@ -42,7 +42,6 @@
         background-color: $primary-color;
         top: 0;
         right: 0;
-        max-width: 480px;
         width: 480px;
         text-align: right;
         padding: 12px 23px;

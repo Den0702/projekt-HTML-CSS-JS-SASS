@@ -1,6 +1,6 @@
-@mixin flexbox {
+@mixin flexbox($flex-wrap: wrap) {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: $flex-wrap;
 }
 
 @mixin flex-align($justify, $align) {

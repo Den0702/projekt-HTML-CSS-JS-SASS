@@ -1,5 +1,5 @@
 .appointment {
-    @include flexbox;
+    @include flexbox($flex-wrap: nowrap);
     padding: 0;
 
     .desktop-background {

@@ -1,10 +1,10 @@
 # projekt-HTML-CSS-JS-SASS
 
 ## Brief description 
-A static website project with the possibility of filling in, validating, and sending a web form.
+A static website project with the possibility of filling out, validating, and sending a web form.
 
 ## Main features
-Fully responsive web page - adapted for small mobile devices, devices with medium screen sizes as well as for desktops
+Fully responsive web page - adapted for _small mobile devices_, devices with _medium screen sizes_ as well as for _desktops_
 
 ## Tools and technologies used
 - HTML5 to structure the page
@@ -18,7 +18,7 @@ Fully responsive web page - adapted for small mobile devices, devices with mediu
 [Click to see the demo of the web page](https://den0702.github.io/projekt-HTML-CSS-JS-SASS/)
 
 ## Resources
-- Fonts 
+- Fonts  
     [Roboto](https://fonts.google.com/specimen/Roboto)  
     [Bellota](https://fonts.google.com/specimen/Bellota)  
 - Icons  

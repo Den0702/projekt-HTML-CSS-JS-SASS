@@ -27,7 +27,7 @@ Fully responsive layout - adapted for _small mobile devices_, devices with _medi
     [Normalize CSS](https://github.com/kristerkari/normalize.scss/blob/master/_normalize.scss)
     
 ## References
-- Graphic design, form handling specification
+- Graphic design, assets, form handling specification
     https://akademia108.pl/
 - API for processing the submitted form:
     https://akademia108.pl/

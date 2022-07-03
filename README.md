@@ -4,7 +4,7 @@
 A static website project with the possibility of filling out, validating, and sending a web form.
 
 ## Main features
-Fully responsive web page - adapted for _small mobile devices_, devices with _medium screen sizes_ as well as for _desktops_
+Fully responsive layout - adapted for _small mobile devices_, devices with _medium screen sizes_ as well as for _desktops_
 
 ## Tools and technologies used
 - HTML5 to structure the page

@@ -25,6 +25,8 @@ Fully responsive web page - adapted for small mobile devices, devices with mediu
     [Font Awesome](https://use.fontawesome.com/releases/v5.0.7/css/all.css)  
 - Additional resources  
     [Normalize CSS](https://github.com/kristerkari/normalize.scss/blob/master/_normalize.scss)
+    
+## References
 - Graphic design, form handling specification
     https://akademia108.pl/
 - API for processing the submitted form:

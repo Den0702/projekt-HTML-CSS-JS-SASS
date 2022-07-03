@@ -18,7 +18,7 @@ Fully responsive web page - adapted for small mobile devices, devices with mediu
 [Click to see the demo of the web page](https://den0702.github.io/projekt-HTML-CSS-JS-SASS/)
 
 ## Resources
-- Fonts:  
+- Fonts 
     [Roboto](https://fonts.google.com/specimen/Roboto)  
     [Bellota](https://fonts.google.com/specimen/Bellota)  
 - Icons  

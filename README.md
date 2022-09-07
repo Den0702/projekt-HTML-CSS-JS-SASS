@@ -24,8 +24,8 @@ Fully responsive layout - adapted for _small mobile devices_, devices with _medi
 - Icons  
     [Font Awesome](https://use.fontawesome.com/releases/v5.0.7/css/all.css)  
 - Additional resources  
-    [Normalize CSS](https://github.com/kristerkari/normalize.scss/blob/master/_normalize.scss)
-    
+    [Normalize CSS](https://github.com/kristerkari/normalize.scss/blob/master/_normalize.scss)  
+    [Photopea](https://www.photopea.com/) - Online tool for working with .psd file (graphic design file) format    
 ## References
 - Graphic design, assets and form handling specification
     https://akademia108.pl/

@@ -4,7 +4,9 @@
 A static website project with the possibility of filling out, validating, and sending a web form.
 
 ## Main features
-Fully responsive layout - adapted for _small mobile devices_, devices with _medium screen sizes_ as well as for _desktops_
+Fully responsive layout - adapted for _small mobile devices_, devices with _medium screen sizes_ as well as for _desktops_  
+## Demo 
+[Click to see the demo of the web page](https://den0702.github.io/projekt-HTML-CSS-JS-SASS/)
 
 ## Tools and technologies used
 - HTML5 to structure the page
@@ -13,9 +15,6 @@ Fully responsive layout - adapted for _small mobile devices_, devices with _medi
     + handle the processing of web form field data
     + send form data to the server and show the response information
     + display messages about failed validation of incorrectly filled fields
-
-## Demo 
-[Click to see the demo of the web page](https://den0702.github.io/projekt-HTML-CSS-JS-SASS/)
 
 ## Resources
 - Fonts  

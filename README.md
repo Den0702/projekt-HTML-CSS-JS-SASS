@@ -13,7 +13,7 @@ Built using mobile-first designing approach
 ## Tools and technologies used
 - HTML5 to structure the page
 - The SASS preprocessor to create style sheets 
-- Vanilla JavaScript to
+- JavaScript to
     + handle the processing of web form field data
     + send form data to the server and show the response information
     + display messages about failed validation of incorrectly filled fields
